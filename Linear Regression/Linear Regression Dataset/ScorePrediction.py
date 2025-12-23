@@ -7,7 +7,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 # Load in the CSV
 
-data = pd.read_csv("data/Student_Performance.csv")
+data = pd.read_csv("Student_Performance.csv")
 
 # Convert feature from categorical to numerical
 
